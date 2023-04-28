@@ -1,0 +1,300 @@
+@import url("https://fonts.googleapis.com/css? family=Inter:400 | Inria+Serif:400");
+.home-1 {
+	align-items:center;
+	background-color:#c398a9;
+	border:1px none;
+	display:flex;
+	flex-direction:column;
+	height:1572px;
+	overflow:hidden;
+	width:1728px;
+}
+.hidden,.hidden * {
+	pointer-events:none;
+	visibility:hidden;
+}
+.atas {
+	align-items:flex-start;
+	align-self:flex-start;
+	display:flex;
+	min-width:1742px;
+}
+.overlap-group1 {
+	align-items:center;
+	background-color:var(--blackcurrant);
+	display:flex;
+	height:183px;
+	justify-content:flex-end;
+	min-width:1728px;
+	padding:68px 30px;
+}
+.overlap-group2 {
+	height:44px;
+	margin-left:31px;
+	margin-top:1px;
+	position:relative;
+	width:161px;
+}
+.eject {
+	height:14px;
+	left:142px;
+	position:absolute;
+	top:16px;
+	width:14px;
+}
+.layouts {
+	cursor:pointer;
+	left:0;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top:0;
+	width:161px;
+}
+.firmwares {
+	cursor:pointer;
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:66px;
+	margin-top:1px;
+	min-height:44px;
+	width:193px;
+}
+.place {
+	align-self:flex-end;
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:150px;
+	min-height:44px;
+	width:121px;
+}
+.keyboard {
+	cursor:pointer;
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:41px;
+	margin-top:1px;
+	min-height:44px;
+	width:301px;
+}
+.tools {
+	cursor:pointer;
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:31px;
+	margin-top:1px;
+	min-height:44px;
+	width:95px;
+}
+.overlap-group-1 {
+    height:44px;
+    margin-left:99px;
+    margin-top:1px;
+    position:relative;
+    width:117px;
+}
+.parts {
+	cursor:pointer;
+	left:0;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top:0;
+	width:117px;
+}
+.eject-1 {
+	height:24px;
+	left:93px;
+	position:absolute;
+	top:11px;
+	width:24px;
+}
+.key-hub {
+	letter-spacing:0;
+	line-height:normal;
+	margin-top:1px;
+	min-height:44px;
+	width:245px;
+}
+.home-1 .place-4 {
+	letter-spacing:0;
+	line-height:normal;
+}
+.place-1 {
+	color:var(--black);
+	font-family:var(--font-family- inria_serif);
+	font-size:var (--font-size-1);
+	font-weight:400;
+	margin-top:69px;
+	min-height:115px;
+	min-width:272px;
+	white-space:nowrap;
+}
+.overlap-group7 {
+	align-self:flex-start;
+	height:277px;
+	margin-left:47px;
+	margin-top:19px;
+	position:relative;
+	width:393px;
+}
+.rectangle-2 {
+	cursor:pointer;
+	height:277px;
+	left:0;
+	position:absolute;
+	top:0;
+	width:393px;
+}
+.rectangle-22 {
+	object-fit:cover;
+	position:absolute;
+    top:1px;
+	width:393px;
+}
+.place-3 {
+	left:150px;
+	position:absolute;
+	top:209px;
+}
+.overlap-group-container-1 {
+	align-items:flex-start;
+	display:flex;
+	gap:21px;
+	margin-right:1px;
+	margin-top:32px;
+	min-width:1635px;
+}
+.overlap-group {
+	height:277px;
+	position:relative;
+	width:393px;
+}
+.rectangle {
+	background-color:var(--gun-powder);
+	position:absolute;
+	height:277px;
+	left:0;
+	top:0;
+	width:393px;
+}
+.firmwares-1 {
+	left:108px;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top:208px;
+}
+.rectangle-1 {
+	height:191px;
+	left:0;
+	object-fit:cover;
+	position:absolute;
+	top:0;
+	width:393px;
+}
+.tools-1 {
+	left:151px;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top:208px;
+}
+.overlap-group11 {
+	align-items:center;
+	background-color:var(--gun-powder);
+	display:flex;
+	flex-direction:column;
+	gap:17px;
+	min-height:277px;
+	width:393px;
+}
+.keyboard-test {
+	letter-spacing:0;
+	line-height:normal;
+	min-height:44px;
+	min-width:245px;
+}
+.rectangle-17 {
+	height:191px;
+	object-fit:cover;
+	width:393px;
+}
+.bawah {
+	align-items:flex-start;
+	display:flex;
+	margin-left:6px;
+	margin-top:69px;
+	min-width:1734px;
+}
+.overlap-group-2 {
+	align-items:center;
+	background-color:var(-- blackcurrant);
+	display:flex;
+	height:183px;
+	min-width:1728px;
+	padding:62px 47px;
+}
+.home-page {
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:736px;
+	margin-top:1px;
+	min-height:44px;
+	width:236px;
+}
+.maximize {
+	align-self:flex-start;
+	height:52px;
+	width:44px;
+}
+.x2023-key-hub {
+	letter-spacing:0;
+	line-height:normal;
+	margin-top:1px;
+	min-height:44px;
+	width:444px;
+}
+.github {
+	cursor:pointer;
+	letter-spacing:0;
+	line-height:normal;
+	margin-left:31px;
+	margin-top:1px;
+	min-height:44px;
+	width:138px;
+}
+.overlap-group-container {
+	align-items:flex-start;
+	display:flex;
+	gap:21px;
+	margin-right:1px;
+	margin-top:71px;
+	min-width:1635px;
+}
+.place-2 {
+	left:135px;
+	position:absolute;
+	top:209px;
+}
+.ergonomic {
+	left:106px;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top:209px;
+}
+.ortholinear {
+	letter-spacing:0;
+	left:101px;
+	position:absolute;
+	top:209px;
+	line-height:normal;
+}
+.mini {
+	left:161px;
+	letter-spacing:0;
+	line-height:normal;
+	position:absolute;
+	top: 209px;
+}
